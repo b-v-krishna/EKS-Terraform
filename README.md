@@ -4,11 +4,11 @@ This repository contains Terraform configurations for deploying an Amazon EKS (E
 
 **Files Overview**
 
-# main.tf – Defines the Terraform configuration, including providers and resources for EKS deployment.
+**main.tf** – Defines the Terraform configuration, including providers and resources for EKS deployment.
 
-# variables.tf – Declares input variables for customization of the infrastructure.
+**variables.tf** – Declares input variables for customization of the infrastructure.
 
-# outputs.tf – Specifies the output values, such as the EKS cluster name and endpoint.
+**outputs.tf** – Specifies the output values, such as the EKS cluster name and endpoint.
 
 **Usage**
 
