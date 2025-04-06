@@ -10,7 +10,7 @@ This repository contains Terraform configurations for deploying an Amazon EKS (E
 
 **outputs.tf** – Specifies the output values, such as the EKS cluster name and endpoint.
 
-**Usage**
+**Steps to Create EKS**
 
 **Initialize Terraform:**
 ```
