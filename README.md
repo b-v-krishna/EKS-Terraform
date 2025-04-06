@@ -1,6 +1,6 @@
 # EKS-Terraform
 
-This repository contains Terraform configurations for deploying an Amazon EKS (Elastic Kubernetes Service) cluster. Below is a brief explanation of each file:
+This repository contains Terraform configurations for deploying an Amazon EKS (Elastic Kubernetes Service) cluster.
 
 **Files Overview**
 
